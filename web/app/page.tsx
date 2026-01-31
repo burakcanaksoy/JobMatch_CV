@@ -21,7 +21,7 @@ export default function Home() {
               <Button variant="ghost">Sign In</Button>
             </Link>
             <Link href="/login">
-              <Button>Get Started</Button>
+              <Button>Get Not Started</Button>
             </Link>
           </div>
         </div>
