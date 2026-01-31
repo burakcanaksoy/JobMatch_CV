@@ -36,7 +36,7 @@ export default function Home() {
             </div>
             <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl bg-gradient-to-r from-gray-900 to-gray-500 bg-clip-text text-transparent pb-2">
               Tailor Your CV to Any Job <br className="hidden md:block" />
-              in Seconds with AI
+              in Seconds with Artificial Intelligence
             </h1>
             <p className="max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
               Paste a LinkedIn job URL, and our AI will analyze the requirements to generate a perfectly optimized CV that passes ATS systems.
